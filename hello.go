@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-    fmt.Println("Optimization truth : ", quote.Opt())
+	fmt.Println("Optimization truth : ", quote.Opt())
 }
